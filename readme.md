@@ -18,7 +18,7 @@ OPTIONS:
   -i, --id <SPOTIFY_ID>: The spotify app ID [env: SPOTIFY_ID]
   -s, --secret <SPOTIFY_SECRET>: The spotify app secret [env: SPOTIFY_SECRET]
   -r, --redirect <REDIRECT_URI>: The spotify app redirect URI [env: SPOTIFY_REDIRECT_URI]
-  -o, --out <DIRECTORY>: Save exported files to <directory> or print to stdout if <directory> is "-" (default: ".")
+  -o, --out <DIRECTORY>: Save exported files to <DIRECTORY> or print to stdout if <DIRECTORY> is "-" (default: ".")
   -B, --no-browser: Do not launch the default browser for authentication
   --: Stop processing options
   -V, --version: Show version
